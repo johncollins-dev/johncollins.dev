@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="jcdev-logo.svg"
+   inkscape:export-filename="jcdev-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:zoom="1.5185118"
+     inkscape:cx="207.11067"
+     inkscape:cy="174.1837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1061"
+     inkscape:window-x="1920"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="24.891338,358.94739"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="68.243928,374.98721"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="221.24836,24.807785"
+       orientation="0,-1"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="375.01256,50.460556"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="24.891338"
+       y="25.01279"
+       width="171.35343"
+       height="128.42691"
+       id="rect6" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:4"
+       id="rect1"
+       width="400"
+       height="400"
+       x="0"
+       y="0"
+       rx="0"
+       ry="0" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:4"
+       id="rect5"
+       width="350.12122"
+       height="350.17941"
+       x="24.891338"
+       y="25.012791" />
+    <text
+       xml:space="preserve"
+       id="text5"
+       style="font-size:26.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);fill:#ffffff;stroke:#ffffff;stroke-width:0.941167"
+       transform="matrix(4.0333624,0,0,4.4783394,-82.482123,-32.099194)"><tspan
+         x="24.890625"
+         y="32.956944"
+         id="tspan4"><tspan
+           style="font-family:'SF Mono';-inkscape-font-specification:'SF Mono';fill:#000000;stroke:#000000"
+           id="tspan3">JC&gt;</tspan></tspan></text>
+  </g>
+</svg>
